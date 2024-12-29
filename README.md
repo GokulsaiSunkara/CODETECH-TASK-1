@@ -1,8 +1,13 @@
 Name: Sunkara Gokul Sai
+
 Company: CODETECH IT SOLUTIONS
+
 ID: CT6WDTC
+
 Domain: JAVA PROGRAMMING
+
 Duration: December 17th,2024 to February 2nd,2025
+
 Mentor: Neela Santhosh Kumar
 
 Overview of the Project
